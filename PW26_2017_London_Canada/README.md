@@ -63,7 +63,7 @@ This is a collection of resources submitted by attendees
 }}
 
 # Projects
-* Use this [updated template for project pages](projects/2017_Project_Week_Template.md)
+* Use this [updated template for project pages](projects/Project_Week_Template.md)
 
 ## Virtual/Augmented Reality
 * [Enabling virtual reality (OpenVR) for Slicer](projects/Virtual_Reality_and_Slicer.md) \(Adam Rankin\)
