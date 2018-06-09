@@ -34,9 +34,9 @@ Bi-weekly Hangouts will be held prior to the event. Please sign up for a Hangout
 
 ## Accommodation
 * Please arrange your own accommodation. Nearby options include:
-** [Western Summer Accommodations](http://www.stayatwestern.ca/)
-** [Guest House on the Mount](http://guesthouseonthemount.ca/)
-** [Windermere Manor](https://windermeremanor.com/)
+  * [Western Summer Accommodations](http://www.stayatwestern.ca/)
+  * [Guest House on the Mount](http://guesthouseonthemount.ca/)
+  * [Windermere Manor](https://windermeremanor.com/)
 
 ## Dates
 July 17-21, 2017
@@ -51,9 +51,9 @@ This is a collection of resources submitted by attendees
 * [Welcome presentation by Andras Lasso](assets/20170717-Robarts-SlicerBasics.pdf)
 * [Historical overview by Nobuhiko Hata](assets/2017-slicer.pptx)
 * Python resources (thanks John Drozd!)
-** http://cscircles.cemc.uwaterloo.ca/5-input/
-** https://www.jetbrains.com/pycharm/
-** http://www.datacarpentry.org/python-ecology-lesson/
+  * http://cscircles.cemc.uwaterloo.ca/5-input/
+  * https://www.jetbrains.com/pycharm/
+  * http://www.datacarpentry.org/python-ecology-lesson/
 
 # Schedule
 {{#widget:Google Calendar
@@ -63,7 +63,7 @@ This is a collection of resources submitted by attendees
 }}
 
 # Projects
-*Use this [updated template for project pages](Projects/2017_Project_Week_Template.md)
+* Use this [updated template for project pages](Projects/2017_Project_Week_Template.md)
 
 ## Virtual/Augmented Reality
 * [Enabling virtual reality (OpenVR) for Slicer](Projects/Virtual_Reality_and_Slicer.md) \(Adam Rankin\)
@@ -100,16 +100,16 @@ This is a collection of resources submitted by attendees
 
 # Breakout sessions
 * 3D Slicer introduction
-** [3D Slicer features overview](https://1drv.ms/b/s!Arm_AFxB9yqHsIVjPU5w0WskDFhJsA) \(Andras Lasso\)
+  * [3D Slicer features overview](https://1drv.ms/b/s!Arm_AFxB9yqHsIVjPU5w0WskDFhJsA) \(Andras Lasso\)
 * Segmentation
-** [Segment editor tutorials (video tutorial and slides)](https://www.slicer.org/wiki/Documentation/Nightly/Training#Slicer4_3D_Printing)
-** [Segment editor reference manual](http://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html)
+  * [Segment editor tutorials (video tutorial and slides)](https://www.slicer.org/wiki/Documentation/Nightly/Training#Slicer4_3D_Printing)
+  * [Segment editor reference manual](http://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html)
 * Slicelets
-** [Customizing 3D Slicer: slicelets/guidelets](https://1drv.ms/b/s!Arm_AFxB9yqHsIVkYnMd6OrLmqKMgw) \(Andras Lasso\)]
-** [Slicer programming tutorial](https://www.slicer.org/wiki/Documentation/Nightly/Training#Slicer4_Programming_Tutorial)
-** [VASST Lab Slicelet Template (Thanks Ying Li!)](https://github.com/VASST/SliceletsTemplate)
+  * [Customizing 3D Slicer: slicelets/guidelets](https://1drv.ms/b/s!Arm_AFxB9yqHsIVkYnMd6OrLmqKMgw) \(Andras Lasso\)]
+  * [Slicer programming tutorial](https://www.slicer.org/wiki/Documentation/Nightly/Training#Slicer4_Programming_Tutorial)
+  * [VASST Lab Slicelet Template (Thanks Ying Li!)](https://github.com/VASST/SliceletsTemplate)
 * SlicerIGT
-** [PerkLab videos](https://www.youtube.com/user/perklabresearch/videos?sort=dd&view=0&shelf_id=0)
+  * [PerkLab videos](https://www.youtube.com/user/perklabresearch/videos?sort=dd&view=0&shelf_id=0)
 
 # Attendees
 * Isabella Morgan (Robarts Research Institute)
