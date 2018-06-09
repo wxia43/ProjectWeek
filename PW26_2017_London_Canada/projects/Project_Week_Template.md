@@ -1,29 +1,25 @@
-__NOTOC__
-<gallery>
-Image:SPWW Summer2017.png|link=Main_Page#Projects|[[Main_Page#Projects|Projects List]]
-<!-- Use the "Upload file" link on the left and then add a line to this list like "File:MyAlgorithmScreenshot.png" -->
+Back to [Projects List](../README.md)
 
-</gallery>
+# <Project Title>
 
-==Key Investigators==
-<!-- Add a bulleted list of investigators and their institutions here -->
+## Key Investigators
 
-==Project Description==
-{| class="wikitable"
-! style="text-align: left; width:27%" |   Objective
-! style="text-align: left; width:27%" |   Approach and Plan
-! style="text-align: left; width:27%" |   Progress and Next Steps
-|- style="vertical-align:top;"
-|
-<!-- Objective bullet points -->
-*
-|
-<!-- Approach and Challenges bullet points -->
-*
-|
-<!-- Progress and Next steps bullet points (fill out at the end of project week) -->
-*  
-|}
+- [Person Name](url to homepage) \(Affiliation\)
 
-==Background and References==
-<!-- Use this space for information that may help people better understand your project, like links to papers, source code, or data -->
+# Project Description
+
+## Objective
+
+## Approach and Plan
+
+## Progress and Next Steps
+
+<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+
+# Illustrations
+
+<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+
+# Background and References
+
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
