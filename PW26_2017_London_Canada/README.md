@@ -63,40 +63,40 @@ This is a collection of resources submitted by attendees
 }}
 
 # Projects
-* Use this [updated template for project pages](Projects/2017_Project_Week_Template.md)
+* Use this [updated template for project pages](projects/2017_Project_Week_Template.md)
 
 ## Virtual/Augmented Reality
-* [Enabling virtual reality (OpenVR) for Slicer](Projects/Virtual_Reality_and_Slicer.md) \(Adam Rankin\)
+* [Enabling virtual reality (OpenVR) for Slicer](projects/Virtual_Reality_and_Slicer.md) \(Adam Rankin\)
 
 ## Segmentation and Classification
-* [Identifying angiosomes in the lower leg](Projects/Peripheral_Angiosome_Identification.md) \(Michael Schumaker, Andrei Mouraviev, Edward Ntiri\)
-* [3D Anatomical Segmentation to Improve Gross Anatomy](Projects/3D_Anatomical_Segmentation_to_Improve_Gross_Anatomy.md)_\(Steven Lewis\)
-* [Automated Segmentation of the human skull, face and airways from MRI dicom images](Projects/Automated Segmentation_of_the_human_skull,_face_and_airways_from_MRI_dicom_images.md) \(John Drozd\)
-* [Module for computing Laplace field over a volume of interest](Projects/Laplace_equation_solver.md) \(Jordan DeKraker\)
+* [Identifying angiosomes in the lower leg](projects/Peripheral_Angiosome_Identification.md) \(Michael Schumaker, Andrei Mouraviev, Edward Ntiri\)
+* [3D Anatomical Segmentation to Improve Gross Anatomy](projects/3D_Anatomical_Segmentation_to_Improve_Gross_Anatomy.md)_\(Steven Lewis\)
+* [Automated Segmentation of the human skull, face and airways from MRI dicom images](projects/Automated Segmentation_of_the_human_skull,_face_and_airways_from_MRI_dicom_images.md) \(John Drozd\)
+* [Module for computing Laplace field over a volume of interest](projects/Laplace_equation_solver.md) \(Jordan DeKraker\)
 * [Sigmoid Sinus Segmentation](Projects/Sigmoid_Sinus_Segmentation.md) \(Daniel Allen, Brad Gare, Clara Tam\)
-* [Auto-segmentation of the uterus in 3D-slicer and bridge to MATLAB ](Projects/Autosegmentation_of_the_Uterus.md) \(Nadeem Naim\)
-* [Vertebral Body Segmentation and Object recognition using Deep Learning Networks](Projects/VB_Segmentation_Object_recognition_Deep_Learning.md) \(Michael Hardisty\)
-* [Python Phantom Segmentation Script](Projects/Python_Phantom_Segmentation_Script.md) \(Colin McCurdy\)
-* [Automating semi-automatic ventricle segmentation algorithm](Projects/Automating_semi-automatic_ventricle_segmentation_algorithm.md) \(Nuwan Nanayakkara\)
+* [Auto-segmentation of the uterus in 3D-slicer and bridge to MATLAB](projects/Autosegmentation_of_the_Uterus.md) \(Nadeem Naim\)
+* [Vertebral Body Segmentation and Object recognition using Deep Learning Networks](projects/VB_Segmentation_Object_recognition_Deep_Learning.md) \(Michael Hardisty\)
+* [Python Phantom Segmentation Script](projects/Python_Phantom_Segmentation_Script.md) \(Colin McCurdy\)
+* [Automating semi-automatic ventricle segmentation algorithm](projects/Automating_semi-automatic_ventricle_segmentation_algorithm.md) \(Nuwan Nanayakkara\)
 
 ## Image Guided Interventions
-* [Prostate Imaging Reporting](Projects/PI-RADS_for_MR_Guided_Prostate_Procedures.md) \(Nicole Aucoin, Nobuhiko Hata\)
-* [Integration of 3D Slicer and ROS](Projects/ROS-IGTL-Bridge.md) \(Junichi Tokuda\)
-* [AR-ultrasound module](Projects/AR_guidance_system_for_Needle_Interventions.md) \(Goli Ameri, Adam Rankin\)
+* [Prostate Imaging Reporting](projects/PI-RADS_for_MR_Guided_Prostate_Procedures.md) \(Nicole Aucoin, Nobuhiko Hata\)
+* [Integration of 3D Slicer and ROS](projects/ROS-IGTL-Bridge.md) \(Junichi Tokuda\)
+* [AR-ultrasound module](projects/AR_guidance_system_for_Needle_Interventions.md) \(Goli Ameri, Adam Rankin\)
 
 ## Registration
-* [4D Registration](Projects/CTP_image_registration.md) \(Feng Su, Claire Vannelli, Mohamed Moselhy\)
-* [Hand-Eye Calibration Module](Projects/hand_eye_calibration.md) \(Isabella Morgan, Elvis Chen\)
-* [Ex-vivo to in-vivo Registration Procedure](Projects/landmark_registration.md) \(Geetika Gupta\)
+* [4D Registration](projects/CTP_image_registration.md) \(Feng Su, Claire Vannelli, Mohamed Moselhy\)
+* [Hand-Eye Calibration Module](projects/hand_eye_calibration.md) \(Isabella Morgan, Elvis Chen\)
+* [Ex-vivo to in-vivo Registration Procedure](projects/landmark_registration.md) \(Geetika Gupta\)
 
 ## Clinical
-* [Image Quizzer](Projects/Clinical_Teaching_Tool.md) \(Carol Johnson\)
-* [Calculating LVEF](Projects/Calculating_LVEF.md) \(Ben Wilk\)
-* [sEEG Visuallization](Projects/sEEG_visualization.md) \(Kristin Ikeda\)
+* [Image Quizzer](projects/Clinical_Teaching_Tool.md) \(Carol Johnson\)
+* [Calculating LVEF](projects/Calculating_LVEF.md) \(Ben Wilk\)
+* [sEEG Visuallization](projects/sEEG_visualization.md) \(Kristin Ikeda\)
 
 ## Infrastructure
-* [CIFTI File Integration Module](Projects/CIFTI_File_Integration.md) \(Hossein Rejali\)
-* [Dataprobe for models in the 3D viewer](Projects/Dataprobe_for_3D_Viewer.md) \(Jason Kai\)
+* [CIFTI File Integration Module](projects/CIFTI_File_Integration.md) \(Hossein Rejali\)
+* [Dataprobe for models in the 3D viewer](projects/Dataprobe_for_3D_Viewer.md) \(Jason Kai\)
 
 # Breakout sessions
 * 3D Slicer introduction
