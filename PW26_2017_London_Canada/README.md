@@ -1,177 +1,172 @@
-A summary of all past [[http://wiki.na-mic.org/Wiki/index.php/Project_Events#Past_Project_Weeks|Project Events]].
+A summary of all past [Project Events](http://wiki.na-mic.org/Wiki/index.php/Project_Events#Past_Project_Weeks).
 
-{|
-! [[image:SPWW_Summer2017.png|225px]]
-! [[image:birc.jpg|225px]]
-! [[image:CANARIE_v.png|225px]]
-|}
+| | | |
+|:---:|:---:|:---:|
+| ![Sponsors](assets/SPWW_Summer2017.png) | ![Biomedical Imaging Research Centre](assets/Birc.jpg) | ![CANARIE](assets/CANARIE_v.png) |
 
-=26th Slicer Project Week and 1st Slicer IGT Project Week=
+# 26th Slicer Project Week and 1st Slicer IGT Project Week
 
 It is a pleasure to announce that the Western Slicer Project Week will be held in London, Ontario, Canada on July 17-21, 2017. This is the first extension Slicer project week that grew organically from a proposed visit of Dr. Nobuhiko Hata to Western. Enough interest existed to propose a small Slicer hackfest, which quickly grew into a full blown project week. With the expansion of the hackfest into a full project week, an additional meeting was arranged in conjunction with SPWW to discuss and develop image-guided therapy specific goals. Thus, this is also the inaugural Slicer IGT Project Week.
 
-This project week is an event endorsed by the [http://www.miccai.org/organization MICCAI Society].
+This project week is an event endorsed by the [MICCAI Society](http://www.miccai.org/organization).
 
-[[File:Group shot.jpg|center|1000px]]
+![Group shot](./assets/Group_shot.jpg)
 
-=='''Feedback'''==
-<span style="color: red; ">''' Please complete the survey [https://www.surveymonkey.com/r/ZZ3YH3R here]. '''</span>
-<hr/>
+## Feedback
+<span style="color: red; ">**Please complete the survey [here](https://www.surveymonkey.com/r/ZZ3YH3R).**</span>
 
-==Mailing List==
-Please send an email to [mailto:slicer-project-week-western-join@robarts.ca slicer-project-week-western-join@robarts.ca] to be put on the mailing list.
-<hr/>
+## Mailing List
+Please send an email to [slicer-project-week-western-join@robarts.ca](mailto:slicer-project-week-western-join@robarts.ca) to be put on the mailing list.
 
-==REGISTRATION==
+## REGISTRATION
 Registration is now closed. For inquiries please contact the organizing committee.
-<hr/>
 
-==Local Organizing Committee==
-*[http://www.robarts.ca/terry-peters Terry Peters]
-*[http://www.birc.ca/contact-birc Jackie Williams]
-*[https://www.khanlab.ca/ Ali Khan]
+## Local Organizing Committee
+* [Terry Peters](http://www.robarts.ca/terry-peters)
+* [Jackie Williams](http://www.birc.ca/contact-birc)
+* [Ali Khan](https://www.khanlab.ca/)
 
-==Hangouts for preparation==
+## Hangouts for Preparation
 Bi-weekly Hangouts will be held prior to the event. Please sign up for a Hangout if you have project ideas or suggestions for the event.
-* (Adam Rankin) Hangout #1: '''May 18th 1.00 PM EDT''' (GMT-4): Welcome and overview of the project week [https://plus.google.com/u/0/events/cbpe1ku1upiuomv3r6kuea4rnd0 event page]  ([[SPWW Hangouts Notes|Notes]])
-* (Adam Rankin) Hangout #2: '''June 1st 1.00 PM EDT''' (GMT-4): VR and Slicer: necessary steps to enable Slicer scene visualization within a VR environment [https://plus.google.com/u/0/events/c0rgj5idnfsdji7tpjr8vu3ekd4 event page]
-* (Adam Rankin) Hangout #3: '''June 15th 1.00 PM EDT''' (GMT-4): Slicelets: You can get rid of those buttons!? [https://plus.google.com/u/0/events/c80d9oit70e6nmmjnssgphv4ggg event page]
+* \(Adam Rankin\) Hangout #1: **May 18th 1.00 PM EDT** (GMT-4): Welcome and overview of the project week [event page](https://plus.google.com/u/0/events/cbpe1ku1upiuomv3r6kuea4rnd0)  ([Notes](SPWW_Hangouts_Notes))
+* \(Adam Rankin\) Hangout #2: **June 1st 1.00 PM EDT** (GMT-4): VR and Slicer: necessary steps to enable Slicer scene visualization within a VR environment [event page](https://plus.google.com/u/0/events/c0rgj5idnfsdji7tpjr8vu3ekd4)
+* (Adam Rankin) Hangout #3: **June 15th 1.00 PM EDT** (GMT-4): Slicelets: You can get rid of those buttons!? [event page](https://plus.google.com/u/0/events/c80d9oit70e6nmmjnssgphv4ggg)
 
-==Accommodation==
+## Accommodation
 * Please arrange your own accommodation. Nearby options include:
-** [http://www.stayatwestern.ca/ Western Summer Accommodations]
-** [http://guesthouseonthemount.ca/ Guest House on the Mount]
-** [https://windermeremanor.com/ Windermere Manor]
+** [Western Summer Accommodations](http://www.stayatwestern.ca/)
+** [Guest House on the Mount](http://guesthouseonthemount.ca/)
+** [Windermere Manor](https://windermeremanor.com/)
 
-==Dates==
+## Dates
 July 17-21, 2017
 
-==Location==
-[https://www.google.ca/maps/place/Robarts+Research+Institute,+London,+ON+N6G+2V4/@43.0117945,-81.2759126,17z/data=!3m1!4b1!4m5!3m4!1s0x882eee15f7063301:0xddd8df04a10c8ad7!8m2!3d43.0117613!4d-81.2738213 Robarts Research Institute, London, ON, Canada]
+## Location
+[Robarts Research Institute, London, ON, Canada](https://www.google.ca/maps/place/Robarts+Research+Institute,+London,+ON+N6G+2V4/@43.0117945,-81.2759126,17z/data=!3m1!4b1!4m5!3m4!1s0x882eee15f7063301:0xddd8df04a10c8ad7!8m2!3d43.0117613!4d-81.2738213)
 
-[https://www.google.ca/maps/@43.0113772,-81.2738127,3a,75y,322.68h,82.51t/data=!3m6!1e1!3m4!1svNjMJcK8VMA9V-3RaJci0A!2e0!7i13312!8i6656 Access via front doors]
+[Access via front doors](https://www.google.ca/maps/@43.0113772,-81.2738127,3a,75y,322.68h,82.51t/data=!3m6!1e1!3m4!1svNjMJcK8VMA9V-3RaJci0A!2e0!7i13312!8i6656)
 
-==Resources==
+## Resources
 This is a collection of resources submitted by attendees
-* [[Media:20170717-Robarts-SlicerBasics.pdf|Welcome presentation by Andras Lasso]]
-* [[Media:2017-slicer.pptx|Historical overview by Nobuhiko Hata]]
+* [Welcome presentation by Andras Lasso](assets/20170717-Robarts-SlicerBasics.pdf)
+* [Historical overview by Nobuhiko Hata](assets/2017-slicer.pptx)
 * Python resources (thanks John Drozd!)
 ** http://cscircles.cemc.uwaterloo.ca/5-input/
 ** https://www.jetbrains.com/pycharm/
 ** http://www.datacarpentry.org/python-ecology-lesson/
 
-= '''Schedule''' =
+# Schedule
 {{#widget:Google Calendar
 |id=hegcggqjp16i02rmakfjq4rvk0@group.calendar.google.com
 |color=2952A3
 |title=Slicer Project Week Western
 }}
 
-= '''Projects''' =
-*Use this [[2017_Project_Week_Template | Updated Template for project pages]]
+# Projects
+*Use this [updated template for project pages](Projects/2017_Project_Week_Template.md)
 
-== Virtual/Augmented Reality ==
-#[[2017 Slicer Western Week/Virtual Reality and Slicer| Enabling virtual reality (OpenVR) for Slicer]] (Adam Rankin)
+## Virtual/Augmented Reality
+* [Enabling virtual reality (OpenVR) for Slicer](Projects/Virtual_Reality_and_Slicer.md) \(Adam Rankin\)
 
-== Segmentation and Classification ==
-#[[2017 Slicer Western Week/Peripheral Angiosome Identification| Identifying angiosomes in the lower leg]] (Michael Schumaker, Andrei Mouraviev, Edward Ntiri)
-#[[2017 Slicer Western Week/3D Anatomical Segmentation to Improve Gross Anatomy | 3D Anatomical Segmentation to Improve Gross Anatomy]] (Steven Lewis)
-#[[2017 Slicer Western Week/Automated Segmentation of the human skull, face and airways from MRI dicom images | Automated Segmentation of the human skull, face and airways from MRI dicom images]] (John Drozd)
-#[[2017 Slicer Western Week/Laplace equation solver| Module for computing Laplace field over a volume of interest]] (Jordan DeKraker)
-#[[2017 Slicer Western Week/Sigmoid Sinus Segmentation | Sigmoid Sinus Segmentation]] (Daniel Allen, Brad Gare, Clara Tam)
-#[[2017 Slicer Western Week/Autosegmentation of the Uterus|Auto-segmentation of the uterus in 3D-slicer and bridge to MATLAB ]] (Nadeem Naim)
-#[[2017 Slicer Western Week/VB Segmentation Object recognition Deep Learning|Vertebral Body Segmentation and Object recognition using Deep Learning Networks]] (Michael Hardisty)
-#[[2017 Slicer Western Week/Python Phantom Segmentation Script|Python Phantom Segmentation Script]] (Colin McCurdy)
-#[[2017 Slicer Western Week/Automating semi-automatic ventricle segmentation algorithm|Automating semi-automatic ventricle segmentation algorithm]] (Nuwan Nanayakkara)
+## Segmentation and Classification
+* [Identifying angiosomes in the lower leg](Projects/Peripheral_Angiosome_Identification.md) \(Michael Schumaker, Andrei Mouraviev, Edward Ntiri\)
+* [3D Anatomical Segmentation to Improve Gross Anatomy](Projects/3D_Anatomical_Segmentation_to_Improve_Gross_Anatomy.md)_\(Steven Lewis\)
+* [Automated Segmentation of the human skull, face and airways from MRI dicom images](Projects/Automated Segmentation_of_the_human_skull,_face_and_airways_from_MRI_dicom_images.md) \(John Drozd\)
+* [Module for computing Laplace field over a volume of interest](Projects/Laplace_equation_solver.md) \(Jordan DeKraker\)
+* [Sigmoid Sinus Segmentation](Projects/Sigmoid_Sinus_Segmentation.md) \(Daniel Allen, Brad Gare, Clara Tam\)
+* [Auto-segmentation of the uterus in 3D-slicer and bridge to MATLAB ](Projects/Autosegmentation_of_the_Uterus.md) \(Nadeem Naim\)
+* [Vertebral Body Segmentation and Object recognition using Deep Learning Networks](Projects/VB_Segmentation_Object_recognition_Deep_Learning.md) \(Michael Hardisty\)
+* [Python Phantom Segmentation Script](Projects/Python_Phantom_Segmentation_Script.md) \(Colin McCurdy\)
+* [Automating semi-automatic ventricle segmentation algorithm](Projects/Automating_semi-automatic_ventricle_segmentation_algorithm.md) \(Nuwan Nanayakkara\)
 
-== Image Guided Interventions ==
-#[[2017 Slicer Western Week/PI-RADS for MR Guided Prostate Procedures| Prostate Imaging Reporting]] (Nicole Aucoin, Nobuhiko Hata)
-#[[2017 Slicer Western Week/ROS-IGTL-Bridge | Integration of 3D Slicer and ROS]] (Junichi Tokuda)
-#[[2017 Slicer Western Week/AR guidance system for Needle Interventions| AR-ultrasound module]] (Goli Ameri, Adam Rankin)
+## Image Guided Interventions
+* [Prostate Imaging Reporting](Projects/PI-RADS_for_MR_Guided_Prostate_Procedures.md) \(Nicole Aucoin, Nobuhiko Hata\)
+* [Integration of 3D Slicer and ROS](Projects/ROS-IGTL-Bridge.md) \(Junichi Tokuda\)
+* [AR-ultrasound module](Projects/AR_guidance_system_for_Needle_Interventions.md) \(Goli Ameri, Adam Rankin\)
 
-== Registration ==
-#[[2017 Slicer Western Week/CTP image registration| 4D Registration]] (Feng Su, Claire Vannelli, Mohamed Moselhy)
-#[[2017 Slicer Western Week/hand eye calibration| Hand-Eye Calibration Module]] (Isabella Morgan, Elvis Chen)
-#[[2017 Slicer Western Week/landmark registration| Ex-vivo to in-vivo Registration Procedure]] (Geetika Gupta)
+## Registration
+* [4D Registration](Projects/CTP_image_registration.md) \(Feng Su, Claire Vannelli, Mohamed Moselhy\)
+* [Hand-Eye Calibration Module](Projects/hand_eye_calibration.md) \(Isabella Morgan, Elvis Chen\)
+* [Ex-vivo to in-vivo Registration Procedure](Projects/landmark_registration.md) \(Geetika Gupta\)
 
-== Clinical ==
-#[[2017 Slicer Western Week/Clinical Teaching Tool| Image Quizzer]] (Carol Johnson)
-#[[2017 Slicer Western Week/Calculating LVEF| Calculating LVEF]] (Ben Wilk)
-#[[2017 Slicer Western Week/sEEG visualization| sEEG Visuallization]] (Kristin Ikeda)
+## Clinical
+* [Image Quizzer](Projects/Clinical_Teaching_Tool.md) \(Carol Johnson\)
+* [Calculating LVEF](Projects/Calculating_LVEF.md) \(Ben Wilk\)
+* [sEEG Visuallization](Projects/sEEG_visualization.md) \(Kristin Ikeda\)
 
-== Infrastructure ==
-#[[2017 Slicer Western Week/CIFTI File Integration| CIFTI File Integration Module]] (Hossein Rejali)
-#[[2017 Slicer Western Week/Dataprobe for 3D Viewer| Dataprobe for models in the 3D viewer]] (Jason Kai)
+## Infrastructure
+* [CIFTI File Integration Module](Projects/CIFTI_File_Integration.md) \(Hossein Rejali\)
+* [Dataprobe for models in the 3D viewer](Projects/Dataprobe_for_3D_Viewer.md) \(Jason Kai\)
 
-= '''Breakout sessions''' =
+# Breakout sessions
 * 3D Slicer introduction
-** [https://1drv.ms/b/s!Arm_AFxB9yqHsIVjPU5w0WskDFhJsA 3D Slicer features overview (Andras Lasso)]
+** [3D Slicer features overview](https://1drv.ms/b/s!Arm_AFxB9yqHsIVjPU5w0WskDFhJsA) \(Andras Lasso\)
 * Segmentation
-** [https://www.slicer.org/wiki/Documentation/Nightly/Training#Slicer4_3D_Printing Segment editor tutorials (video tutorial and slides)]
-** [http://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html Segment editor reference manual]
+** [Segment editor tutorials (video tutorial and slides)](https://www.slicer.org/wiki/Documentation/Nightly/Training#Slicer4_3D_Printing)
+** [Segment editor reference manual](http://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html)
 * Slicelets
-** [https://1drv.ms/b/s!Arm_AFxB9yqHsIVkYnMd6OrLmqKMgw Customizing 3D Slicer: slicelets/guidelets (Andras Lasso)]
-** [https://www.slicer.org/wiki/Documentation/Nightly/Training#Slicer4_Programming_Tutorial Slicer programming tutorial]
-** [https://github.com/VASST/SliceletsTemplate VASST Lab Slicelet Template (Thanks Ying Li!)]
+** [Customizing 3D Slicer: slicelets/guidelets](https://1drv.ms/b/s!Arm_AFxB9yqHsIVkYnMd6OrLmqKMgw) \(Andras Lasso\)]
+** [Slicer programming tutorial](https://www.slicer.org/wiki/Documentation/Nightly/Training#Slicer4_Programming_Tutorial)
+** [VASST Lab Slicelet Template (Thanks Ying Li!)](https://github.com/VASST/SliceletsTemplate)
 * SlicerIGT
-** [https://www.youtube.com/user/perklabresearch/videos?sort=dd&view=0&shelf_id=0 PerkLab videos]
+** [PerkLab videos](https://www.youtube.com/user/perklabresearch/videos?sort=dd&view=0&shelf_id=0)
 
-= '''Attendees''' =
-# Isabella Morgan (Robarts Research Institute)
-# Golafsoun Ameri (Robarts Research Institute)
-# Uditha  Jayarathne (Robarts Research Institute)
-# [https://github.com/adamrankin Adam Rankin] (Robarts Research Institute)
-# Jonathan Lau (Robarts Research Institute)
-# Saeed Bakhshmand (CSTAR)
-# Serene Abu-Sardanah (Robarts Research Institute)
-# Greydon Gilmore (University Hospital)
-# John Drozd (Western University)
-# Feng Su (Robarts Research Institute)
-# Daniel Allen (University of Western Ontario)
-# Hossein Rejali (Robarts Research Institute)
-# Geetika Gupta (Robarts Research Institute)
-# Kristin Ikeda (Western University)
-# Kayla Ferko (Western University)
-# Jason Kai (Western University)
-# Claire Vannelli (Robarts Research Institute)
-# Andrew Westcott (Western University)
-# Brian Wang (Khan Lab)
-# Clara Tam (Western University)
-# Loxlan Kasa (Robarts Research Institute)
-# Carol Johnson (Baines Imaging Laboratory)
-# Benjamin Wilk (Lawson Imaging)
-# Andrei Mouraviev (University of Toronto)
-# Ali Khan (Western University)
-# Colin McCurdy (Western University)
-# Reid Vassallo (Robarts Research Institute)
-# John Demarco (Robarts Research Institute)
-# Michael Schumaker (Sunnybrook Research Institute)
-# Erin Iredale (Western University)
-# Nobuhiko Hata (Brigham and Women's Hospital and Harvard Medical School)
-# Nicole Aucoin (Harmonus Inc)
-# Brian Ninni (Surgical Planning Lab)
-# Andras Lasso (Queen's PerkLab)
-# [https://github.com/franklinwk Franklin King] (Brigham and Women's Hospital)
-# Brad Gare (Western University)
-# Steven Lewis (University at Buffalo)
-# YingLi Lu (Robarts Research Institute)
-# Nuwan Nanayakkara (Robarts Research Institute)
-# Hassan Haddad (The University of Western Ontario)
-# Junichi Tokuda (Brigham and Women's Hospital)
-# Jordan DeKraker (University of Western Ontario)
-# Khalid Abdalla (University of Western Ontario)
-# Deepak Toor (Robarts Research Institute)
-# Justin Michael (Robarts Research Institute)
-# Jessica Rodgers (Robarts Research Institute)
-# Terry Peters (Robarts Research Institute)
-# [https://github.com/moselhy Mohamed Moselhy] [mailto:mohamed.moselhy@uwo.ca Email] (McKenzie Lab)
-# Nadeem Naim (Mckenzie Lab)
-# Edward Ntiri (Sunnybrook Research Institute)
-# Helium Mak (Western University)
-# Qi Qi (Lawson Imaging)
-# Arefin Shamsil (CSTAR)
-# Stewart McLachlin (University of Waterloo)
-# Michael Hardisty (Sunnybrook Research Institute)
-# Wenyao Xia (Western University)
-# John Baxter (Robarts Research Institute)
-# Jean-Christophe Fillion-Robin (Kitware Inc.)
+# Attendees
+* Isabella Morgan (Robarts Research Institute)
+* Golafsoun Ameri (Robarts Research Institute)
+* Uditha Jayarathne (Robarts Research Institute)
+* [Adam Rankin](https://github.com/adamrankin) (Robarts Research Institute)
+* Jonathan Lau (Robarts Research Institute)
+* Saeed Bakhshmand (CSTAR)
+* Serene Abu-Sardanah (Robarts Research Institute)
+* Greydon Gilmore (University Hospital)
+* John Drozd (Western University)
+* Feng Su (Robarts Research Institute)
+* Daniel Allen (University of Western Ontario)
+* Hossein Rejali (Robarts Research Institute)
+* Geetika Gupta (Robarts Research Institute)
+* Kristin Ikeda (Western University)
+* Kayla Ferko (Western University)
+* Jason Kai (Western University)
+* Claire Vannelli (Robarts Research Institute)
+* Andrew Westcott (Western University)
+* Brian Wang (Khan Lab)
+* Clara Tam (Western University)
+* Loxlan Kasa (Robarts Research Institute)
+* Carol Johnson (Baines Imaging Laboratory)
+* Benjamin Wilk (Lawson Imaging)
+* Andrei Mouraviev (University of Toronto)
+* Ali Khan (Western University)
+* Colin McCurdy (Western University)
+* Reid Vassallo (Robarts Research Institute)
+* John Demarco (Robarts Research Institute)
+* Michael Schumaker (Sunnybrook Research Institute)
+* Erin Iredale (Western University)
+* Nobuhiko Hata (Brigham and Women's Hospital and Harvard Medical School)
+* Nicole Aucoin (Harmonus Inc)
+* Brian Ninni (Surgical Planning Lab)
+* Andras Lasso (Queen's PerkLab)
+* [Franklin King](https://github.com/franklinwk) (Brigham and Women's Hospital)
+* Brad Gare (Western University)
+* Steven Lewis (University at Buffalo)
+* YingLi Lu (Robarts Research Institute)
+* Nuwan Nanayakkara (Robarts Research Institute)
+* Hassan Haddad (The University of Western Ontario)
+* Junichi Tokuda (Brigham and Women's Hospital)
+* Jordan DeKraker (University of Western Ontario)
+* Khalid Abdalla (University of Western Ontario)
+* Deepak Toor (Robarts Research Institute)
+* Justin Michael (Robarts Research Institute)
+* Jessica Rodgers (Robarts Research Institute)
+* Terry Peters (Robarts Research Institute)
+* [Mohamed Moselhy](https://github.com/moselhy), [Email](mailto:mohamed.moselhy@uwo.ca) (McKenzie Lab)
+* Nadeem Naim (Mckenzie Lab)
+* Edward Ntiri (Sunnybrook Research Institute)
+* Helium Mak (Western University)
+* Qi Qi (Lawson Imaging)
+* Arefin Shamsil (CSTAR)
+* Stewart McLachlin (University of Waterloo)
+* Michael Hardisty (Sunnybrook Research Institute)
+* Wenyao Xia (Western University)
+* John Baxter (Robarts Research Institute)
+* Jean-Christophe Fillion-Robin (Kitware Inc.)
