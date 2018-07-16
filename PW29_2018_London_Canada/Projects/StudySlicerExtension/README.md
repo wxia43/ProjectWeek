@@ -8,18 +8,18 @@ Explore Matlab-Slicer bridge and plus library
 
 # Project Description
 <!--Learn how to use matlab-slicer bridge and learn how to use plus library in slicer. --> 
-Learn how to use matlab-slicer bridge and learn how to use plus library in slicer.
+Learn how to use matlab-slicer bridge and learn how to use plus library in slicer to implement laser line segmentation and surface reconstruction in endoscopes.
 
 
 ## Objective
 1. Objective A. Learn how to use matlab-slicer interface. 
-1. Objective B. Learn how to use plus library in slicer. 
+1. Objective B. Learn how to use plus library for laser line surface reconstruction using endoscopes. 
 
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
+1. Just learn how to use matlab-slicer interface.
+1. See how far we can go to implement part of laser line segmentation algorithm in plus.
 1. ...
 
 ## Progress and Next Steps
