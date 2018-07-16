@@ -82,6 +82,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Personal Development
 + [Using Extensions](./Projects/UsingExtensions/README.md) (Derek Gillies)
++ [Study Extensions](ProjectWeek/PW29_2018_London_Canada/Projects/StudySlicerExtension/README.md) (Wenyao Xia)
 
 ## Breakout sessions
 
